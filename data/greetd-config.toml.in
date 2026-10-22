@@ -8,7 +8,7 @@ vt = @VT@
 command = "/usr/libexec/phrog-greetd-session"
 user = "@USER@"
 
-# The session to be used on boot
+# The session to be used on boot 
 #[initial_session]
 #command = "systemd-cat phosh-session"
 #user = "username"
